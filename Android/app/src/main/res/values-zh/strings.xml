@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Northern Illinois Food Bank</string>
+    <string name="app_title">Northern Illinois Food Bank</string>
+    <string name="client_enrollment">创建一个 Link2Feed 客户档案。\n请务必保存您的客户 ID。</string>
+    <string name="client_id_placeholder">客户 ID</string>
+    <string name="close_button">关闭</string>
+    <string name="facebook">Facebook</string>
+    <string name="language_label">语言</string>
+    <string name="no_client">未设置客户 ID</string>
+    <string name="save_client_and_close">保存客户 ID 并关闭</string>
+    <string name="settings_button">设置</string>
+    <string name="shareTheApp">分享应用</string>
+    <string name="version_label">版本</string>
+    <string name="wallet_error">无法打开 Google Wallet。请重试。</string>
+    <string name="website">网站</string>
+    <string name="scan_button_description">扫描客户 ID 条形码或二维码</string>
+    <string name="change_language_label">更改语言</string>
+    <string name="display_format_label">客户 ID 显示为</string>
+    <string name="barcode_option">条形码</string>
+    <string name="qr_code_option">二维码</string>
+    <string name="number_only_option">仅限数字</string>
+    <string name="scan_hint">对准二维码或 Code 128 条形码</string>
+</resources>

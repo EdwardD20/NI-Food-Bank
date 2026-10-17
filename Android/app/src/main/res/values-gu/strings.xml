@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Northern Illinois Food Bank</string>
+    <string name="app_title">Northern Illinois Food Bank</string>
+    <string name="client_enrollment">Link2Feed ક્લાયન્ટ પ્રોફાઇલ બનાવો.\nતમારું ક્લાયન્ટ આઈડી સાચવવાનું ભૂલશો નહીં.</string>
+    <string name="client_id_placeholder">ક્લાયન્ટ આઈડી</string>
+    <string name="close_button">બંધ કરો</string>
+    <string name="facebook">Facebook</string>
+    <string name="language_label">ભાષા</string>
+    <string name="no_client">કોઈ ક્લાયન્ટ આઈડી સેટ નથી</string>
+    <string name="save_client_and_close">ક્લાયન્ટ આઈડી સાચવો અને બંધ કરો</string>
+    <string name="settings_button">સેટિંગ્સ</string>
+    <string name="shareTheApp">એપ શેર કરો</string>
+    <string name="version_label">આવૃત્તિ</string>
+    <string name="wallet_error">Google Wallet ખોલી શકાયું નથી. કૃપા કરીને ફરી પ્રયાસ કરો.</string>
+    <string name="website">વેબસાઇટ</string>
+    <string name="scan_button_description">ક્લાયન્ટ આઈડી બારકોડ અથવા QR કોડ સ્કેન કરો</string>
+    <string name="change_language_label">ભાષા બદલો</string>
+    <string name="display_format_label">ક્લાયન્ટ ID આ રીતે પ્રદર્શિત કરો</string>
+    <string name="barcode_option">બારકોડ</string>
+    <string name="qr_code_option">QR કોડ</string>
+    <string name="number_only_option">માત્ર સંખ્યા</string>
+    <string name="scan_hint">QR અથવા કોડ 128 બારકોડ તરફ નિર્દેશ કરો</string>
+</resources>

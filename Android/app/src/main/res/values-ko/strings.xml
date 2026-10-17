@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Northern Illinois Food Bank</string>
+    <string name="app_title">Northern Illinois Food Bank</string>
+    <string name="client_enrollment">Link2Feed 고객 프로필을 생성하세요.\n고객 ID를 반드시 저장하세요.</string>
+    <string name="client_id_placeholder">고객 ID</string>
+    <string name="close_button">닫기</string>
+    <string name="facebook">Facebook</string>
+    <string name="language_label">언어</string>
+    <string name="no_client">고객 ID가 설정되지 않았습니다</string>
+    <string name="save_client_and_close">고객 ID 저장 후 닫기</string>
+    <string name="settings_button">설정</string>
+    <string name="shareTheApp">앱 공유</string>
+    <string name="version_label">버전</string>
+    <string name="wallet_error">Google Wallet을 열 수 없습니다. 다시 시도하세요.</string>
+    <string name="website">웹사이트</string>
+    <string name="scan_button_description">고객 ID 바코드 또는 QR 코드 스캔</string>
+    <string name="change_language_label">언어 변경</string>
+    <string name="display_format_label">고객 ID 표시 형식:</string>
+    <string name="barcode_option">바코드</string>
+    <string name="qr_code_option">QR 코드</string>
+    <string name="number_only_option">숫자만</string>
+    <string name="scan_hint">QR 또는 Code 128 바코드를 가리키세요</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Northern Illinois Food Bank</string>
+    <string name="app_title">Northern Illinois Food Bank</string>
+    <string name="client_enrollment">Tsim ib qho Link2Feed cov neeg siv profile.\nHaj kom txuag koj tus Client ID.</string>
+    <string name="client_id_placeholder">Client ID</string>
+    <string name="close_button">Kaw</string>
+    <string name="facebook">Facebook</string>
+    <string name="language_label">Lus</string>
+    <string name="no_client">Tsis muaj Client ID teev tseg</string>
+    <string name="save_client_and_close">Txuag Client ID thiab Kaw</string>
+    <string name="settings_button">Chaw</string>
+    <string name="shareTheApp">Qhia Qhov App</string>
+    <string name="version_label">Version</string>
+    <string name="wallet_error">Qhib tsis tau Google Wallet. Thov sim dua.</string>
+    <string name="website">Vev xaib</string>
+    <string name="scan_button_description">Luam Client ID Barcode lossis QR Code</string>
+    <string name="change_language_label">Hloov hom lus</string>
+    <string name="display_format_label">Tso tus ID neeg thov ua</string>
+    <string name="barcode_option">Barcode</string>
+    <string name="qr_code_option">QR Code</string>
+    <string name="number_only_option">Tsuas yog tus lej xwb</string>
+    <string name="scan_hint">Taw rau ntawm ib lub QR lossis Code 128 barcode</string>
+</resources>

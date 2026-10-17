@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Northern Illinois Food Bank</string>
+    <string name="app_title">Northern Illinois Food Bank</string>
+    <string name="client_enrollment">Tạo hồ sơ khách hàng Link2Feed.\nHãy nhớ lưu ID khách hàng của bạn.</string>
+    <string name="client_id_placeholder">ID khách hàng</string>
+    <string name="close_button">Đóng</string>
+    <string name="facebook">Facebook</string>
+    <string name="language_label">Ngôn ngữ</string>
+    <string name="no_client">Chưa đặt ID khách hàng</string>
+    <string name="save_client_and_close">Lưu ID khách hàng và đóng</string>
+    <string name="settings_button">Cài đặt</string>
+    <string name="shareTheApp">Chia sẻ ứng dụng</string>
+    <string name="version_label">Phiên bản</string>
+    <string name="wallet_error">Không thể mở Google Wallet. Vui lòng thử lại.</string>
+    <string name="website">Trang web</string>
+    <string name="scan_button_description">Quét mã vạch ID khách hàng hoặc mã QR</string>
+    <string name="change_language_label">Thay đổi ngôn ngữ</string>
+    <string name="display_format_label">Hiển thị ID khách hàng là</string>
+    <string name="barcode_option">Mã vạch</string>
+    <string name="qr_code_option">Mã QR</string>
+    <string name="number_only_option">Chỉ số</string>
+    <string name="scan_hint">Hướng camera vào mã QR hoặc mã vạch Code 128</string>
+</resources>

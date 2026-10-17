@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Northern Illinois Food Bank</string>
+    <string name="app_title">Northern Illinois Food Bank</string>
+    <string name="client_enrollment">Gumawa ng Link2Feed client profile.\nSiguraduhing i-save ang iyong Client ID.</string>
+    <string name="client_id_placeholder">Client ID</string>
+    <string name="close_button">Isara</string>
+    <string name="facebook">Facebook</string>
+    <string name="language_label">Wika</string>
+    <string name="no_client">Walang nakatakdang Client ID</string>
+    <string name="save_client_and_close">I-save ang Client ID at isara</string>
+    <string name="settings_button">Mga Setting</string>
+    <string name="shareTheApp">Ibahagi ang app</string>
+    <string name="version_label">Bersyon</string>
+    <string name="wallet_error">Hindi mabuksan ang Google Wallet. Pakisubukang muli.</string>
+    <string name="website">Website</string>
+    <string name="scan_button_description">I-scan ang Client ID Barcode o QR Code</string>
+    <string name="change_language_label">Baguhin ang Wika</string>
+    <string name="display_format_label">Ipakita ang Client ID bilang</string>
+    <string name="barcode_option">Barcode</string>
+    <string name="qr_code_option">QR Code</string>
+    <string name="number_only_option">Numero lamang</string>
+    <string name="scan_hint">Ituro sa isang QR o Code 128 barcode</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Northern Illinois Food Bank</string>
+    <string name="app_title">Northern Illinois Food Bank</string>
+    <string name="client_enrollment">اعمل ملف تعريف عميل على Link2Feed. اتأكد إنك تحفظ رقم العميل بتاعك.</string>
+    <string name="client_id_placeholder">رقم العميل</string>
+    <string name="close_button">اقفل</string>
+    <string name="facebook">Facebook</string>
+    <string name="language_label">اللغة</string>
+    <string name="no_client">مفيش رقم عميل متسجل</string>
+    <string name="save_client_and_close">احفظ رقم العميل واقفل</string>
+    <string name="settings_button">الإعدادات</string>
+    <string name="shareTheApp">شارك التطبيق</string>
+    <string name="version_label">النسخة</string>
+    <string name="wallet_error">مقدرناش نفتح Google Wallet. جرب تاني لو سمحت.</string>
+    <string name="website">الموقع الإلكتروني</string>
+    <string name="scan_button_description">امسح باركود أو QR كود رقم العميل</string>
+    <string name="change_language_label">غير اللغة</string>
+    <string name="display_format_label">اعرض رقم العميل كـ</string>
+    <string name="barcode_option">باركود</string>
+    <string name="qr_code_option">كيو آر كود</string>
+    <string name="number_only_option">أرقام بس</string>
+    <string name="scan_hint">وجه الكاميرا على QR كود أو باركود Code 128</string>
+</resources>

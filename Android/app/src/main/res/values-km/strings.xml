@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Northern Illinois Food Bank</string>
+    <string name="app_title">Northern Illinois Food Bank</string>
+    <string name="client_enrollment">បង្កើតប្រវត្តិរូបអតិថិជន Link2Feed ។\nត្រូវប្រាកដថាបានរក្សាទុក Client ID របស់អ្នក។</string>
+    <string name="client_id_placeholder">Client ID</string>
+    <string name="close_button">បិទ</string>
+    <string name="facebook">Facebook</string>
+    <string name="language_label">ភាសា</string>
+    <string name="no_client">មិនមាន Client ID ត្រូវបានកំណត់</string>
+    <string name="save_client_and_close">រក្សាទុក Client ID ហើយបិទ</string>
+    <string name="settings_button">ការកំណត់</string>
+    <string name="shareTheApp">ចែករំលែកកម្មវិធី</string>
+    <string name="version_label">កំណែ</string>
+    <string name="wallet_error">មិនអាចបើក Google Wallet បានទេ។ សូមព្យាយាមម្តងទៀត។</string>
+    <string name="website">គេហទំព័រ</string>
+    <string name="scan_button_description">ស្កែនបាកូដលេខសម្គាល់អតិថិជន ឬកូដ QR</string>
+    <string name="change_language_label">ប្តូរភាសា</string>
+    <string name="display_format_label">បង្ហាញលេខសម្គាល់អតិថិជនជា</string>
+    <string name="barcode_option">បាកូដ</string>
+    <string name="qr_code_option">កូដ QR</string>
+    <string name="number_only_option">តែលេខប៉ុណ្ណោះ</string>
+    <string name="scan_hint">តម្រង់ទៅកូដ QR ឬបាកូដ Code 128</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Northern Illinois Food Bank</string>
+    <string name="app_title">Northern Illinois Food Bank</string>
+    <string name="client_enrollment">ສ້າງໂປຣໄຟລ໌ລູກຄ້າ Link2Feed .\nໃຫ້ແນ່ໃຈວ່າໄດ້ບັນທຶກ Client ID ຂອງທ່ານ.</string>
+    <string name="client_id_placeholder">Client ID</string>
+    <string name="close_button">ປິດ</string>
+    <string name="facebook">Facebook</string>
+    <string name="language_label">ພາສາ</string>
+    <string name="no_client">ບໍ່ມີ Client ID ຖືກຕັ້ງ</string>
+    <string name="save_client_and_close">ບັນທຶກ Client ID ແລະ ປິດ</string>
+    <string name="settings_button">ການຕັ້ງຄ່າ</string>
+    <string name="shareTheApp">ແບ່ງປັນແອັບ</string>
+    <string name="version_label">ເວີຊັນ</string>
+    <string name="wallet_error">ບໍ່ສາມາດເປີດ Google Wallet ໄດ້. ກະລຸນາລອງໃໝ່.</string>
+    <string name="website">ເວັບໄຊ</string>
+    <string name="scan_button_description">ສະແກນບາໂຄດລະຫັດລູກຄ້າ ຫຼື ຄິວອາໂຄດ</string>
+    <string name="change_language_label">ປ່ຽນພາສາ</string>
+    <string name="display_format_label">ສະແດງລະຫັດລູກຄ້າເປັນ</string>
+    <string name="barcode_option">ບາໂຄດ</string>
+    <string name="qr_code_option">ຄິວອາໂຄດ</string>
+    <string name="number_only_option">ຕົວເລກເທົ່ານັ້ນ</string>
+    <string name="scan_hint">ຈໍ່ໃສ່ຄິວອາໂຄດ ຫຼື ບາໂຄດ Code 128</string>
+</resources>
